@@ -1,6 +1,7 @@
 # more descriptive variable names
 # more descriptive prompt statements
 # input validation
+#git test
 x = int(raw_input("prompt"))
 if x == int or float:
     print x
